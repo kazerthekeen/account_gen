@@ -1,0 +1,15 @@
+{
+  "browser_type": "Chrome",
+  "chrome_executable_path": "Libraries/chromedriver_linux64/chromedriver",
+  "load_file": "Accounts.csv",
+  "protoype": {
+      "telephone": "1234567890",
+      "password": "",
+      "confirm": "",
+      "address-1": "7160 Irving St.",
+      "postcode": "80030",
+      "city": "Westminster",
+      "zone": "Colorado"
+  }
+
+}
